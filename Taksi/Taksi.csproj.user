@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddDriver.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddRide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddStation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddVehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Driver.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\DriverExpense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddDriverExpense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Ride.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Shift.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowRide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Station.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\StationMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Vehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddVehicleExpense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\VehicleExpense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
